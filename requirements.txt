@@ -1,6 +1,4 @@
 django
-djangorestframework
-django-ckeditor
 python-decouple
 psycopg2-binary
 pillow
